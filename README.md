@@ -1,27 +1,11 @@
-# Minimal Mistakes remote theme starter
+# Qubrando padrões
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Este foi o nome que escolhi para o projeto que pode ser chamado de a guinada em uma carreira de muita busca e pouca ação.
 
-Contains basic configuration to get you a site with:
+## A estagnação era uma realidade
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Após muito estudar, muito conhecimento adquirir, e sempre me sentir aquém do básico necessário para me aventurar em projetos da vida real, decidir virar a chave. Este projeto se trata do início de uma jornada que visa apresentar toda e qualquer evolução, mesmo que incremental, em meu conhecimento.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Aqui providenciarei compartilhar os códigos que já fiz e estão engavetados, com o intuito de ter o maior número de projetos iniciados e terminados. Me aventurar no mundo dos que começam e terminam.
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Tenho certeza que os desafios a serem superados sempre parecerão muralhas intransponíveis, mas com a execução de mais projetos e a liberação destes projetos para outros testarem, estou certo de que as muralhas parecerão meias-paredes que finalizadas e que servirão de degrais para impulsionar maiores saltos em busca de uma nova realidade.
