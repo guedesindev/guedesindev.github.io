@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este blog é um compromisso público comigo mesmo.Um laboratório de ideias, um diário em construção, uma vitrini do que já fiz - mas, principalmente, do que ainda vou fazer. A urgência não está no tempo — está na verdade de que, se eu não fizer agora, talvez eu nunca faça. Aqui, eu escolhi fazer.
 twitter_username: username
 github_username: guedesindev
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
