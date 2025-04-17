@@ -1,0 +1,20 @@
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-3q3og7 sitelibdir\=./.gem.20250416-14756-3q3og7 clean
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-3q3og7 sitelibdir\=./.gem.20250416-14756-3q3og7
+generating fastfilereaderext-x64-mingw-ucrt.def
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-3q3og7 sitelibdir\=./.gem.20250416-14756-3q3og7 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250416-14756-3q3og7
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-3q3og7 sitelibdir\=./.gem.20250416-14756-3q3og7 clean

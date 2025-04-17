@@ -1,0 +1,28 @@
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/wdm-0.2.0/ext/wdm
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for -lkernel32... yes
+checking for windows.h... yes
+creating Makefile
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-sq5dsm sitelibdir\=./.gem.20250416-14756-sq5dsm clean
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-sq5dsm sitelibdir\=./.gem.20250416-14756-sq5dsm
+generating wdm_ext-x64-mingw-ucrt.def
+compiling entry.c
+compiling memory.c
+compiling monitor.c
+compiling queue.c
+compiling rb_change.c
+compiling rb_monitor.c
+compiling utils.c
+compiling wdm.c
+linking shared-object wdm_ext.so
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-sq5dsm sitelibdir\=./.gem.20250416-14756-sq5dsm install
+/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20250416-14756-sq5dsm
+
+current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.3.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250416-14756-sq5dsm sitelibdir\=./.gem.20250416-14756-sq5dsm clean
