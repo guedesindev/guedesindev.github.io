@@ -9,5 +9,5 @@ main:
     url: /about/
   - title: 'Newsletter'
     url: /newsletter/
-  - title: 'Newsletter'
+  - title: 'Obrigado por se inscrever!'
     url: /newsletter-obrigado/
