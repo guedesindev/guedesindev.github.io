@@ -9,7 +9,7 @@ classes: wide
 
 Receba atualizações sobre novos artigos, projetos com IA, desafios de programação e dicas de aprendizado contínuo diretamente no seu e-mail.
 
-<form action="https://seuservicodeemail.com/subscribe" method="POST">
+<form action="https://buttondown.com/api/emails/embed-subscribe/guedesindev" method="POST">
   <input type="email" name="email" placeholder="Digite seu e-mail" required>
   <input type="submit" value="Inscrever-se">
 </form>
