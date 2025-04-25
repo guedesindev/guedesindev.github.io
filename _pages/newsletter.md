@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-layout: single
+layout: posts
 permalink: /newsletter/
 classes: wide
 ---
@@ -8,18 +8,7 @@ classes: wide
 ## Assine a Newsletter
 
 Receba atualizações sobre novos artigos, projetos com IA, desafios de programação e dicas de aprendizado contínuo diretamente no seu e-mail.
-<!-- <style>
-  div{
-    display: flex;
-    flex-direction: column;
-    gap: .5rem;
-  }
-  img{
-    align: center;
-    margin: 0 auto 1rem;
-  }
 
-</style> -->
 <img src="../assets/images/laptop-wave.png" width="250">
 <form
 action="https://buttondown.com/api/emails/embed-subscribe/guedesindev"
