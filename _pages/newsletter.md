@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-layout: posts
+# layout: home
 permalink: /newsletter/
 classes: wide
 ---
