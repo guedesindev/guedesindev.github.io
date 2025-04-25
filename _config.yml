@@ -17,7 +17,7 @@ title: 'Quebrando Padrões Mentais'
 email: 'guedesindev@gmail.com'
 description: >- # this means to ignore newlines until "baseurl:"
   Este blog é um compromisso público comigo mesmo.Um laboratório de ideias, um diário em construção, uma vitrini do que já fiz - mas, principalmente, do que ainda vou fazer. A urgência não está no tempo — está na verdade de que, se eu não fizer agora, talvez eu nunca faça. Aqui, eu escolhi fazer.
-twitter_username: '@guedesindev'
+twitter_username: 'guedesindev'
 github_username: 'guedesindev'
 minimal_mistakes_skin: dark
 search: true
@@ -64,8 +64,8 @@ author:
       icon: 'fas fa-fw fa-link'
       url: 'https://'
     - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
-      url: 'https://twitter.com/'
+      icon: 'fab fa-fw fa-x-twitter-square'
+      url: 'https://x.com/guedesindev'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/'
@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-    - label: 'X'
+    - label: 'X-twitter'
       icon: 'fab fa-fw fa-x-twitter'
       url: 'https://x.com/guedesindev'
     - label: 'GitHub'
