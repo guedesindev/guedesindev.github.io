@@ -21,9 +21,12 @@ classes: wide
     <p>Insights reais, projetos do zero e aprendizados sinceros sobre tecnologia, IA e vida dev — direto no seu
       e-mail,sem filtros.</p>
 
-    <form action="https://buttondown.com/api/emails/embed-subscribe/guedes" method="post" target="popupwindow">
-      <input type="email" name="email" placeholder="Digite seu e-mail" required>
-      <button type="submit">Quero receber os e-mails!</button>
+    <form action="https://buttondown.email/api/emails/embed-subscribe/guedes" method="post" target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/api/emails/embed-subscribe/guedes', 'popupwindow')"
+      class="embeddable-buttondown-form">
+      <input type="email" name="email" placeholder="Seu melhor e-mail" required />
+      <input type="hidden" name="redirect_to" value="https://seusite.com/newsletter-obrigado/" />
+      <button type="submit">Assinar</button>
     </form>
 
     <div class="footer">
