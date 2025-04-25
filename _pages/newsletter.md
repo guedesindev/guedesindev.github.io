@@ -8,7 +8,7 @@ classes: wide
 ## Assine a Newsletter
 
 Receba atualizações sobre novos artigos, projetos com IA, desafios de programação e dicas de aprendizado contínuo diretamente no seu e-mail.
-<style>
+<!-- <style>
   div{
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ Receba atualizações sobre novos artigos, projetos com IA, desafios de programa
     margin: 0 auto 1rem;
   }
 
-</style>
+</style> -->
 <img src="../assets/images/laptop-wave.png" width="250">
 <form
 action="https://buttondown.com/api/emails/embed-subscribe/guedesindev"
