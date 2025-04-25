@@ -21,12 +21,24 @@ classes: wide
     <p>Insights reais, projetos do zero e aprendizados sinceros sobre tecnologia, IA e vida dev — direto no seu
       e-mail,sem filtros.</p>
 
-    <form action="https://buttondown.email/api/emails/embed-subscribe/guedesindev" method="post" target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/api/emails/embed-subscribe/guedesindev', 'popupwindow')"
+    <!-- <form action="https://buttondown.email/api/emails/embed-subscribe/guedesindev" method="post" target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/guedesindev/archive/quero-receber-os-e-mails/', 'popupwindow')"
       class="embeddable-buttondown-form">
       <input type="email" name="email" placeholder="Seu melhor e-mail" required />
       <input type="hidden" name="redirect_to" value="https://guedesindev.github.io/newsletter-obrigado/" />
       <button type="submit">Inscreva-se</button>
+    </form> -->
+
+    <form action="https://buttondown.com/api/emails/embed-subscribe/guedesindev" method="post" target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/guedesindev', 'popupwindow')" class="embeddable-buttondown-form">
+      <label for="bd-email">Enter your email</label>
+      <input type="email" name="email" id="bd-email" />
+
+      <input type="submit" value="Subscribe" />
+      <input type="hidden" name="tag" value="sandwich" />
+      <p>
+        <a href="https://buttondown.com/refer/guedesindev" target="_blank">Powered by Buttondown.</a>
+      </p>
     </form>
 
     <div class="footer">
