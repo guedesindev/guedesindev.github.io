@@ -143,5 +143,5 @@ estou ansioso para ler.
 Hoje, sinto que cresci um pouco mais.  
 Porque, no fim das contas...
 
-> <strong><i><p style="margin-right: 0px">Não é sobre o simplesmente codar.</p>
-> <p style="text-align: right">É sobre quebrar padrões mentais.</p></i></strong>
+> Não é sobre o simplesmente codar.<br>
+> É sobre quebrar padrões mentais.
