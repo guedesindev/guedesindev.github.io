@@ -8,7 +8,8 @@ tags: [firebase, realtime database, desafios, javascript, projetos pessoais, apr
 
 ## Um problema típico
 
-> **"Imperfeito feito vence, perfeito nunca feito."**
+> _"Feito imperfeito vence perfeito nunca feito."_  
+> — Aldo Novak
 ---
 
 O código parecia certo, mas a partida entre os dois jogadores não iniciava. A falha foi detectada e corrigida. Qual era o problema? Regras de segurança do *Firebase Realtime Database*.
