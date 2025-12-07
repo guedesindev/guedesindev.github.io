@@ -19,7 +19,7 @@ Neste projeto fui tomado pela pressa. Li por alto sobre o Firebase Realtime Data
 
 O que fiz então? Recorri ao ChatGPT, que me deu códigos prontos. Tentei entender e aplicar, mas a cada nova implementação, percebia que a complexidade aumentava. Depois de muitos prompts mal estruturados e respostas que refletiam isso, o projeto até funcionou em certo momento. Mas a falta de conhecimento cobra caro. Qualquer falha se tornava um desafio ainda maior de resolver.
 
-Foi necessário parar o desenvolvimento e estudar o que deveria ter sido entendido antes. Mais uma vez o projeto parou, e o sentimento de incompetência apareceu. Essa pausa — e esse sentimento — poderiam ter sido evitados por uma palavra simples: **preparação**.
+Foi necessário parar o desenvolvimento e estudar o que deveria ter sido entendido antes. Mais uma vez o projeto parou, e o sentimento de incompetência apareceu. Essa pausa, e esse sentimento, poderiam ter sido evitados por uma palavra simples: **preparação**.
 
 Agora que falei da dor, quero compartilhar o que aprendi com ela.
 
