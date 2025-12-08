@@ -1,10 +1,10 @@
 ---
+layout: post
 title: "Boas-vindas: Por que comecei este blog"
 date: 2025-04-14
 description: "Este não é um diário perfeito. É um lugar para documentar aprendizados, quebrar travas mentais e publicar ideias com sinceridade."
 categories:  [Boas-vindas, Metaaprendizado, Produtividade Pessoal, Processo Criativo]
 tags: [boas-vindas, aprendizado contínuo, projetos pessoais]
-layout: home
 ---
 
 > _"Feito imperfeito vence perfeito nunca feito."_<br>
