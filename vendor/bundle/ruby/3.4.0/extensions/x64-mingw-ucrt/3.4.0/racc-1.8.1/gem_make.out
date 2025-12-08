@@ -1,4 +1,4 @@
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
 C:/Ruby34-x64/bin/ruby.exe extconf.rb
 *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
@@ -17,7 +17,7 @@ Provided configuration options:
 	--srcdir=.
 	--curdir
 	--ruby=C:/Ruby34-x64/bin/$(RUBY_BASE_NAME)
-extconf.rb:5:in 'Kernel#require_relative': cannot load such file -- D:/Estudos/Programacao/Quebrando Padr?es Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/lib/racc/info (LoadError)
+extconf.rb:5:in 'Kernel#require_relative': cannot load such file -- E:/Estudos/Projetos/Quebrando Padr?es Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/lib/racc/info (LoadError)
 	from extconf.rb:5:in '<main>'
 
 extconf failed, exit code 1
