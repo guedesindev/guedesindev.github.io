@@ -116,5 +116,6 @@ Me conta: qual é o próximo conteúdo que você vai tentar aprender de forma at
 Hoje, sinto que cresci um pouco mais.  
 Porque, no fim das contas...
 
-> Não é sobre o simplesmente aprender.<\br>
+> Não é sobre o simplesmente aprender.
+
 > É sobre mudar a sua mente.
