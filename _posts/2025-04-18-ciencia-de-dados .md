@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ciência de Dados - Como comecei."
 date: 2025-04-18
 description: "Um pequeno posicionamento quanto ao início na ciência de dados. Um desafio novo para um caminho cheio de desafios"

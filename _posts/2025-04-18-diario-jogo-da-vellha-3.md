@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Regras de Segurança Firebase Realtime Database"
 date: 2025-04-21
 description: "Depois de alterar vários pontos do código e verificar o funcionamento, nada adiantou até entender as regras de segurança do Firebase."
