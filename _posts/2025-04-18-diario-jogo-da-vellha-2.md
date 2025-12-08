@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Firebase e o Jogo da Velha: Persistência Além dos Dados"
 date: 2025-04-18
 description: "Neste post da série sobre o desenvolvimento do Jogo da Velha, compartilho os desafios com autenticação e persistência no Firebase Realtime, e como superá-los se tornou mais uma vitória contra a procrastinação."

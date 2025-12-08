@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Boas-vindas: Por que comecei este blog"
 date: 2025-04-14
 description: "Este não é um diário perfeito. É um lugar para documentar aprendizados, quebrar travas mentais e publicar ideias com sinceridade."

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Diário do Jogo da Velha: Um Projeto para Quebrar Padrões"
 date: 2025-04-18
 description: "Neste primeiro post da série sobre o desenvolvimento do Jogo da Velha em JavaScript puro, compartilho os bloqueios, tentativas frustradas e a decisão de seguir em frente sem perfeccionismo."
