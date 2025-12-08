@@ -19,7 +19,7 @@ E para isso… é preciso quebrar padrões.
 
 Quando comecei a pós-graduação em Ciência de Dados com Big Data e descobri que não teria nenhuma vídeo aula, apenas PDFs longos, pensei:
 
-“Misericórdia… como vou sobreviver a isso?”
+> “Misericórdia… como vou sobreviver a isso?”
 
 Eu estava tão acostumado a estudar ouvindo alguém explicar tudo mastigado que ler, realmente ler, parecia difícil demais. Mas esse desconforto acabou sendo uma das melhores coisas que já me aconteceu.
 
@@ -30,8 +30,8 @@ Você assiste, repete, acha tudo incrível e sente aquela falsa sensação de pr
 
 Mas pense comigo:
 
-> Quantas vezes você configurou seu ambiente de desenvolvimento pelo vídeo?
-> E quantas vezes realmente lembrava de fazer tudo sozinho depois?
+> Quantas vezes você configurou seu ambiente de desenvolvimento acompanhando o vídeo?
+> E quantas vezes realmente consegue lembrar de como fazer tudo sozinho?
 
 O professor fez testes, resolveu erros, escolheu o melhor caminho e entregou tudo pronto. Você só repetiu. Sem suor. Sem tropeço. Sem batalha. E, sem batalha, quase nunca há memória.
 
