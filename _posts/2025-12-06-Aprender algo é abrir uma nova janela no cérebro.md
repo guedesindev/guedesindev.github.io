@@ -1,7 +1,7 @@
 ---
-title: "O dia em que um arquivo CSV me fez quebrar um padrão no trabalho"
+title: "Aprender algo é abrir uma nova janela no cérebro."
 date: 2025-12-06
-description: "O desconforto na hora de fazer qualquer coisa, é que impulsiona o seu aprendizado. Então aprenda ativamente.
+description: "Assistir video aulas e apenas ler vencendo páginas pode ser uma armadilha.
 categories: [Aprendizado, Metaaprendizado, Processo Evolutivo, Estudos, Otimizando meu aprendizado]
 tags: [aprendizado contínuo, otimizar aprendizado, quebra padrão mental]
 ---
