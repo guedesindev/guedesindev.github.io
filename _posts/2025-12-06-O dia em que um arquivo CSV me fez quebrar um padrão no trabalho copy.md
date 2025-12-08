@@ -2,7 +2,7 @@
 title: "O dia em que um arquivo CSV me fez quebrar um padrão no trabalho"
 date: 2025-12-06
 description: "Um mix de sentimentos: em um momento, uma aula arrastada e teórica; em outro, prática intensa e um projeto fantástico."
-categories: [Projeto, Metaaprendizado, Processo Evolutivo, Python, Otimizando meu trabalho]
+categories: [Projeto, Metaaprendizado, Processo Evolutivo, Python, Otimizando meu trabalho, Quebrando Padrões]
 tags: [aprendizado contínuo, projetos com Python, otimização com python]
 ---
 

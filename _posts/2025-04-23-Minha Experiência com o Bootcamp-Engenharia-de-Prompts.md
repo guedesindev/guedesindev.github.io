@@ -2,7 +2,7 @@
 title: "Bootcamp - Microsoft 50 Anos - Prompts Inteligentes"
 date: 2025-04-13
 description: "Um mix de sentimentos: em um momento, uma aula arrastada e teórica; em outro, prática intensa e um projeto fantástico."
-categories: [Bootcamp, Metaaprendizado, Processo Evolutivo, Desafio Educacional, IA, Prompts]
+categories: [Bootcamp, Metaaprendizado, Processo Evolutivo, Desafio Educacional, IA, Prompts, Quebrando Padrões]
 tags: [aprendizado contínuo, projetos com IA, prompt engineering]
 ---
 

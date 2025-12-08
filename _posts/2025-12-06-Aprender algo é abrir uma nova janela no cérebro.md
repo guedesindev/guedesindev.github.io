@@ -2,7 +2,7 @@
 title: "Aprender algo é abrir uma nova janela no cérebro."
 date: 2025-12-06
 description: "Assistir video aulas e apenas ler vencendo páginas pode ser uma armadilha.
-categories: [Aprendizado, Metaaprendizado, Processo Evolutivo, Estudos, Otimizando meu aprendizado]
+categories: [Aprendizado, Metaaprendizado, Processo Evolutivo, Estudos, Otimizando meu aprendizado, Quebrando Padrões]
 tags: [aprendizado contínuo, otimizar aprendizado, quebra padrão mental]
 ---
 
