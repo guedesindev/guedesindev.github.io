@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "Aprender algo é abrir uma nova janela no cérebro."
 date: 2025-12-08
 description: "Assistir video aulas e apenas ler vencendo páginas pode ser uma armadilha."
