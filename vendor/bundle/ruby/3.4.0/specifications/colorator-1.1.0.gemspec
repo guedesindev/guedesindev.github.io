@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.5.1".freeze
   s.summary = "Colorize your text in the terminal.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

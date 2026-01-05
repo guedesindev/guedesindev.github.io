@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.3.7".freeze
   s.summary = "Ruby toolkit for working with the GitHub API".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.2.14".freeze
   s.summary = "Jekyll plugin for building Jekyll sites with any GitHub-hosted theme".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

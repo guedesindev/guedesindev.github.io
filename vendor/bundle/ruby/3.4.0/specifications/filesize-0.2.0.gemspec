@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.7.7".freeze
   s.summary = "filesize is a small class for handling filesizes with both the SI and binary prefixes, allowing conversion from any size to any other size.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

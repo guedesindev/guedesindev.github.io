@@ -1,4 +1,16 @@
+# Pasta onde o site é gerado localmente
 _site
+
+# Cache do Jekyll
 .sass-cache
+.jekyll-cache/
 .jekyll-metadata
+
+# Dependências (Gems e pacotes)
+.bundle/
+vendor/
 Gemfile.lock
+
+# Arguivos de sistema
+.DS_Store
+thumbs.db

@@ -91,8 +91,8 @@ INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir
 DEFS     = -D_FILE_OFFSET_BITS=64
 CPPFLAGS = -DBUILD_FOR_RUBY -DOS_WIN32 -DFD_SETSIZE=32767 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -Wno-dll-attribute-on-redeclaration $(ARCH_FLAG)
-ldflags  = -L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed
-dldflags = -pipe -s -fstack-protector-strong -Wl,--enable-auto-image-base,--enable-auto-import $(DEFFILE)
+ldflags  = -L. -pipe -s -fstack-protector-strong -lpthread -Wl,--no-as-needed
+dldflags = -pipe -s -fstack-protector-strong -lpthread -Wl,--enable-auto-image-base,--enable-auto-import $(DEFFILE)
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CXX) -shared

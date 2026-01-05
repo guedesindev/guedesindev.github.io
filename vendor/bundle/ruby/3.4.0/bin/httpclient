@@ -21,9 +21,8 @@ if str
   end
 end
 
-if Gem.respond_to?(:activate_bin_path)
-load Gem.activate_bin_path('httpclient', 'httpclient', version)
+if Gem.respond_to?(:activate_and_load_bin_path)
+  Gem.activate_and_load_bin_path('httpclient', 'httpclient', version)
 else
-gem "httpclient", version
-load Gem.bin_path("httpclient", "httpclient", version)
+  load Gem.activate_bin_path('httpclient', 'httpclient', version)
 end

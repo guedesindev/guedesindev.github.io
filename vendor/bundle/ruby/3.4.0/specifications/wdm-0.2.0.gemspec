@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.6.0.dev".freeze
   s.summary = "Windows Directory Monitor (WDM) is a threaded directories monitor for Windows.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 end

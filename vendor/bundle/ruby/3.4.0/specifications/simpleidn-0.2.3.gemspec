@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.4.19".freeze
   s.summary = "Punycode ACE to unicode UTF-8 (and vice-versa) string conversion.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

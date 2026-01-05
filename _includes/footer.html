@@ -4,12 +4,16 @@
 
         </div>
         <div class="unit one-third align-right center-on-mobiles">
-            <p>
+            <p style="display: flex;align-items: center;gap:1rem">
                 desenvolvido por
-                <a href="https://github.com">
-                    <img src="{{ 'img/laptop-wave.png' | relative_url }}" width="100" height="30"
-                        alt="GitHub • guedesindev">
+                <a href="https://github.com/guedesindev"
+                    style="display: flex; flex-direction:column;align-items: center;">
+                    <img src={{ author.avatar }} alt="Avatar do devGuedes saltando da tela do notebook e dando tchau"
+                        width="80" srcset={{ author.avatar}}>
+                    <span style="font-size: .7rem">&copy; devGuedes</span>
                 </a>
+
+
             </p>
         </div>
     </div>

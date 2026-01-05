@@ -91,8 +91,8 @@ INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir
 DEFS     = -D_FILE_OFFSET_BITS=64
 CPPFLAGS = -DBUILD_FOR_RUBY -DHAVE_RB_THREAD_CALL_WITHOUT_GVL -DHAVE_RB_THREAD_FD_SELECT -DHAVE_TYPE_RB_FDSET_T -DHAVE_RB_WAIT_FOR_SINGLE_FD -DHAVE_RB_TIME_NEW -DOS_WIN32 -DFD_SETSIZE=32767 -DHAVE_CLOCK_GETTIME -DHAVE_CONST_CLOCK_MONOTONIC -DHAVE_MAKE_PAIR -I/usr/local/opt/openssl/include -I/opt/local/include -I/usr/local/include -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -Wno-dll-attribute-on-redeclaration $(ARCH_FLAG)
-ldflags  = -L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed
-dldflags = -pipe -s -fstack-protector-strong -Wl,--enable-auto-image-base,--enable-auto-import $(DEFFILE)
+ldflags  = -L. -pipe -s -fstack-protector-strong -lpthread -Wl,--no-as-needed
+dldflags = -pipe -s -fstack-protector-strong -lpthread -Wl,--enable-auto-image-base,--enable-auto-import $(DEFFILE)
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CXX) -shared

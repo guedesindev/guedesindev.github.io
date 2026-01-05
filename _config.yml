@@ -33,7 +33,6 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _layouts
   - _pages
 
 # Exclude from processing.
@@ -90,7 +89,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ''
+      path: '_posts'
       type: posts
     values:
       layout: single

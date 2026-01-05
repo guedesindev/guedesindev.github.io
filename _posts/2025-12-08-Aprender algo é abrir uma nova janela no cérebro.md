@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Aprender algo é abrir uma nova janela no cérebro."
 date: 2025-12-08
 description: "Assistir video aulas e apenas ler vencendo páginas pode ser uma armadilha."
@@ -118,5 +117,4 @@ Hoje, sinto que cresci um pouco mais.
 Porque, no fim das contas...
 
 > Não é sobre o simplesmente aprender.
-
 > É sobre mudar a sua mente.

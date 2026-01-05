@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.3.26".freeze
   s.summary = "Checks your GitHub Pages site for commons DNS configuration issues".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

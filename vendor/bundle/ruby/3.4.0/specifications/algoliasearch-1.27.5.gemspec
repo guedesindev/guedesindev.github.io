@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.0.3".freeze
   s.summary = "A simple Ruby client for the algolia.com REST API".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

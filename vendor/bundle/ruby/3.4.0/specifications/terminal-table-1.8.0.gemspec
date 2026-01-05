@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.6.11".freeze
   s.summary = "Simple, feature rich ascii table generation library".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

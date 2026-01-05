@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.3.10".freeze
   s.summary = "Very simple & usable FSEvents API".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

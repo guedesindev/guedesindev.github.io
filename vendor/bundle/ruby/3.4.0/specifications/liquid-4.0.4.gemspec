@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "3.3.3".freeze
   s.summary = "A secure, non-evaling end user template engine with aesthetic markup.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

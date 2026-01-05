@@ -1,14 +1,15 @@
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 C:/Ruby34-x64/bin/ruby.exe extconf.rb
 creating Makefile
 
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250416-16392-p01h3f sitelibdir\=./.gem.20250416-16392-p01h3f clean
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-iibvcp sitelibdir\=./.gem.20251208-304-iibvcp clean
 
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250416-16392-p01h3f sitelibdir\=./.gem.20250416-16392-p01h3f
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-iibvcp sitelibdir\=./.gem.20251208-304-iibvcp
 generating ruby_http_parser-x64-mingw-ucrt.def
 compiling ruby_http_parser.c
+compiling ryah_http_parser.c
 ruby_http_parser.c: In function 'Parser_alloc_by_type':
 ruby_http_parser.c:296:3: warning: 'rb_data_object_wrap_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
   296 |   return Data_Wrap_Struct(klass, ParserWrapper_mark, ParserWrapper_free, wrapper);
@@ -160,12 +161,11 @@ ruby_http_parser.c:500:3: warning: 'rb_data_object_get_warning' is deprecated: b
 C:/Ruby34-x64/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: note: declared here
   325 | rb_data_object_get_warning(VALUE obj)
       | ^~~~~~~~~~~~~~~~~~~~~~~~~~
-compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250416-16392-p01h3f sitelibdir\=./.gem.20250416-16392-p01h3f install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250416-16392-p01h3f
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-iibvcp sitelibdir\=./.gem.20251208-304-iibvcp install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20251208-304-iibvcp
 
-current directory: D:/Estudos/Programacao/Quebrando Padrões Mentais/projeto/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250416-16392-p01h3f sitelibdir\=./.gem.20250416-16392-p01h3f clean
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-iibvcp sitelibdir\=./.gem.20251208-304-iibvcp clean

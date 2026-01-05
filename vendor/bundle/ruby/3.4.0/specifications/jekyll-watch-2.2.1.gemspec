@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.7.9".freeze
   s.summary = "Rebuild your Jekyll site when a file changes with the `--watch` switch.".freeze
 
-  s.installed_by_version = "3.6.8".freeze
+  s.installed_by_version = "4.0.0".freeze
 
   s.specification_version = 4
 

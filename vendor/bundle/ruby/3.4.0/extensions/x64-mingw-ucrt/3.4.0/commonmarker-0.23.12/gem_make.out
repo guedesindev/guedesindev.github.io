@@ -1,13 +1,13 @@
-current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
 C:/Ruby34-x64/bin/ruby.exe extconf.rb
 checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
-current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251208-12976-l6tcuf sitelibdir\=./.gem.20251208-12976-l6tcuf clean
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-e4lbyq sitelibdir\=./.gem.20251208-304-e4lbyq clean
 
-current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251208-12976-l6tcuf sitelibdir\=./.gem.20251208-12976-l6tcuf
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-e4lbyq sitelibdir\=./.gem.20251208-304-e4lbyq
 generating commonmarker-x64-mingw-ucrt.def
 compiling arena.c
 compiling autolink.c
@@ -45,7 +45,6 @@ In file included from C:/Ruby34-x64/include/ruby-3.4.0/ruby/internal/config.h:22
 C:/Ruby34-x64/include/ruby-3.4.0/x64-mingw-ucrt/ruby/config.h:43:9: note: this is the location of the previous definition
    43 | #define HAVE_STDBOOL_H 1
       |         ^~~~~~~~~~~~~~
-compiling plugin.c
 commonmarker.c: In function 'commonmarker_cstr_adopt':
 commonmarker.c:50:43: warning: passing argument 1 of 'cmark_get_default_mem_allocator()->free' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
    50 |   cmark_get_default_mem_allocator()->free(str);
@@ -357,6 +356,7 @@ commonmarker.c:1193:3: warning: 'rb_data_object_get_warning' is deprecated: by T
 C:/Ruby34-x64/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: note: declared here
   325 | rb_data_object_get_warning(VALUE obj)
       | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+compiling plugin.c
 compiling references.c
 compiling registry.c
 compiling render.c
@@ -370,9 +370,9 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
-current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251208-12976-l6tcuf sitelibdir\=./.gem.20251208-12976-l6tcuf install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20251208-12976-l6tcuf/commonmarker
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-e4lbyq sitelibdir\=./.gem.20251208-304-e4lbyq install
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20251208-304-e4lbyq/commonmarker
 
-current directory: E:/Estudos/Projetos/Quebrando Padrões Mentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251208-12976-l6tcuf sitelibdir\=./.gem.20251208-12976-l6tcuf clean
+current directory: E:/Estudos/Projetos/QuebrandoPadroesMentais/guedesindev.github.io/vendor/bundle/ruby/3.4.0/gems/commonmarker-0.23.12/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251208-304-e4lbyq sitelibdir\=./.gem.20251208-304-e4lbyq clean
