@@ -16,7 +16,8 @@ tags: [python, virtualenv, automação, produtividade, desenvolvimento]
 Trabalho remotamente e, por questões de segurança, preciso utilizar um sistema operacional separado para o trabalho.
 
 Na prática, isso significa:
-👉 Um sistema para trabalhar  
+
+👉 Um sistema para trabalhar<br>
 👉 Outro sistema para estudar e desenvolver  
 
 Até aí tudo bem.
@@ -195,9 +196,9 @@ python activate_create_virtual.py
 
 Eu tenho:
 
-✅ Ambiente verificado
-✅ Pip atualizado
-✅ Dependências instaladas
+✅ Ambiente verificado<br>
+✅ Pip atualizado<br>
+✅ Dependências instaladas<br>
 
 E o melhor:
 
