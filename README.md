@@ -14,7 +14,7 @@ Tenho certeza que os desafios a serem superados sempre parecerão muralhas intra
 
 ## Redes
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-<a href="https://www.linkedin.com/in/><img src="./assets/images/linkedin_qr.png" width=160 height=160></a>
+<a href="https://www.linkedin.com/in"><img src="./assets/images/linkedin_qr.png" width=160 height=160></a>
 <a href="https://github.com/guedesindev"><img src="./assets/images/github_qr.png" width=160 height=160></a>
 <a href="https://www.instagram.com/guedesindev/"><img src="./assets/images/instagram_qr.png" width=160 height=160></a>
 </div>
